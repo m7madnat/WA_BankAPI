@@ -1,6 +1,5 @@
 # Bank_API_WA
 
-<<<<<<< HEAD
            How to use
     Open New tab
     Copy this endpoint to see all users ==> /api/bank/users
@@ -87,4 +86,3 @@
         
           and use this way to transfer money : "sender":"30307d75-64e7-4e97-82d2-9a03f5eb97b3", "receiver": "233", "amount": 999
       
->>>>>>> 27ffb1e1afbf78f7757570eb86d08c3eea5e7ae7
